@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2023-06-03T04:33:24+00:00</lastmod>
+		<lastmod>2023-07-01T11:23:34+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/01/konsultan-pajak-surabaya-handal.jpg</image:loc>
 		</image:image>
@@ -16,6 +16,21 @@
 			<image:loc>/wp-content/uploads/2023/01/tim-jasa-konsultan-pajak-surabaya.jpg</image:loc>
 		</image:image>
 		<image:image>
+			<image:loc>/wp-content/uploads/2023/07/definisi-tujuan-restitusi-pajak-768x576.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/07/definisi-fungsi-dan-cara-pelaporan-spt-tahunan-768x576.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/07/pengadilan-pajak-768x576.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/07/beda-ikm-dan-ukm-768x576.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/07/dampak-dan-konsekuensi-jika-sengaja-tidak-lapor-spt-tahunan-768x576.jpeg</image:loc>
+		</image:image>
+		<image:image>
 			<image:loc>/wp-content/uploads/2023/06/retribusi-dan-pajak-daerah-768x576.jpeg</image:loc>
 		</image:image>
 		<image:image>
@@ -27,13 +42,10 @@
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/06/daftar-penghasilan-tidak-kena-pajak-ptkp-768x576.jpeg</image:loc>
 		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/06/apa-itu-restitusi-pajak-768x576.jpeg</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>/home</loc>
-		<lastmod>2023-06-02T23:27:50+00:00</lastmod>
+		<lastmod>2023-06-03T05:12:14+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/01/konsultan-pajak-surabaya-handal.jpg</image:loc>
 		</image:image>
@@ -72,6 +84,39 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/02/eoi-pajak-768x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/02/pengertian-pajak-penghasilan-karyawan-768x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/01/pengertian-pajak-mobil-768x576.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/01/apa-perbedaan-ukm-dan-umkm-768x576.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/01/penyebab-resesi-ekonomi-768x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/01/beda-pajak-subjektif-dan-pajak-objektif-768x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/01/apa-itu-pengertian-objek-pajak-768x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/01/ketentuan-aturan-bayar-pajak-768x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/01/konsekuensi-tidak-lapor-spt-tahunan-768x576.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/01/pengertian-industri-kecil-menengah-768x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/01/apa-itu-pengertian-pengadilan-pajak-768x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/01/pengertian-spt-tahunan-768x576.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
